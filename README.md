@@ -129,15 +129,7 @@ https://brute-force-attack-simulator.vercel.app/
 # GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=charukagimhan2020-hub&show_icons=true&theme=chartreuse-dark" />
-</p>
-
-<p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=charukagimhan2020-hub&theme=chartreuse-dark" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charukagimhan2020-hub&layout=compact&theme=chartreuse-dark" />
 </p>
 
 ---
@@ -149,10 +141,6 @@ https://brute-force-attack-simulator.vercel.app/
 [![GitHub](https://img.shields.io/badge/GitHub-charukagimhan2020--hub-181717?style=for-the-badge&logo=github)](https://github.com/charukagimhan2020-hub)
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=charukagimhan2020-hub&theme=matrix&no-frame=true&row=1&column=6" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=00FF88&center=true&vCenter=true&width=600&lines=Learn+.+Build+.+Break+.+Improve+.+Repeat" />
