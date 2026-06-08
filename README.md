@@ -1,152 +1,150 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=2000&color=000000&center=true&vCenter=true&width=700&lines=CHARUKA+WEERASINGHE;CYBERSECURITY+STUDENT;BUILDING+SECURITY+TOOLS;LEARNING+BY+DOING" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=CHARUKA+WEERASINGHE;Cybersecurity+Student+%40+SLIIT;Building+Security+Tools;Learning+Through+Projects;Future+Security+Engineer" />
 </p>
 
-<hr>
-
-# CHARUKA WEERASINGHE
-
-Cybersecurity Student @ SLIIT
-
-I enjoy learning cybersecurity through hands-on projects, security research, risk assessment, and practical tool development.
-
-Currently focused on building security-focused applications that help demonstrate real-world attack techniques, phishing awareness, and defensive security concepts.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=charukagimhan2020-hub&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge" />
+</p>
 
 ---
 
-## CURRENT FOCUS
+# > whoami
 
-- Cybersecurity
-- Information Security
-- Risk Assessment
-- Security Awareness
-- Secure Software Development
-- Threat Detection
-- Ethical Hacking
-- Practical Security Projects
-
----
-
-## FEATURED PROJECTS
-
-### URL Security Scanner
-
-Interactive URL analysis tool that detects:
-
-- Phishing indicators
-- Typosquatting domains
-- URL obfuscation
-- Suspicious keywords
-- Risk scoring
-
-Live Demo:
-https://url-scanner-pwhm.vercel.app/
-
----
-
-### Phishing Awareness Simulator
-
-Educational phishing simulation platform demonstrating:
-
-- Fake login pages
-- Brand impersonation
-- Credential harvesting concepts
-- Suspicious domains
-- Social engineering techniques
-
----
-
-### Advanced Phishing Email Analyzer
-
-Browser-based phishing email analysis tool featuring:
-
-- Heuristic-based detection
-- Suspicious link analysis
-- Social engineering detection
-- Risk assessment
-- Phishing indicator identification
-
----
-
-### Brute Force Attack Simulator
-
-Educational password attack simulator demonstrating:
-
-- Dictionary attacks
-- Wordlist attacks
-- Sequential brute force attacks
-- Password security concepts
-- Authentication weaknesses
-
----
-
-## CERTIFICATIONS
-
-### IBM
-
-- Cybersecurity Fundamentals
-
-### Google
-
-- Foundations of Cybersecurity
-
-### Cisco
-
-- Introduction to Cybersecurity
-
-### Fortinet
-
-- Fortinet Certified Fundamentals Cybersecurity
-- Getting Started in Cybersecurity 3.0
-- Introduction to the Threat Landscape 3.0
-
----
-
-## TECH STACK
-
-```text
-Cybersecurity
-Risk Assessment
-React
-JavaScript
-HTML
-CSS
-Git
-GitHub
+```bash
+Name        : Charuka Weerasinghe
+Role        : Cybersecurity Student
+University  : SLIIT
+Focus       : Information Security
+Interests   : Security Tools, Risk Assessment,
+              Phishing Detection, Threat Analysis
 ```
 
 ---
 
-## GITHUB STATS
+# Current Mission
+
+```text
+[███████████████████░] 95%
+
+Building cybersecurity projects
+Learning offensive & defensive security
+Expanding practical experience
+Preparing for industry opportunities
+```
+
+---
+
+# Security Projects
+
+## URL Security Scanner
+
+Detects:
+
+✓ Phishing URLs
+
+✓ Typosquatting Domains
+
+✓ URL Obfuscation
+
+✓ Suspicious Keywords
+
+✓ Risk Scores
+
+🌐 Live Demo:
+https://url-scanner-pwhm.vercel.app/
+
+---
+
+## Phishing Awareness Simulator
+
+Features:
+
+✓ Phishing Website Simulations
+
+✓ Domain Analysis
+
+✓ Credential Harvesting Demonstrations
+
+✓ Social Engineering Awareness
+
+✓ Browser-Based Training Environment
+
+---
+
+## Advanced Phishing Email Analyzer
+
+Features:
+
+✓ Suspicious Link Analysis
+
+✓ Phishing Detection
+
+✓ Social Engineering Detection
+
+✓ Risk Assessment
+
+✓ Browser-Only Processing
+
+---
+
+## Brute Force Attack Simulator
+
+Features:
+
+✓ Dictionary Attacks
+
+✓ Wordlist Attacks
+
+✓ Sequential Brute Force
+
+✓ Password Security Demonstrations
+
+---
+
+# Certifications
+
+<img src="https://img.shields.io/badge/IBM-Cybersecurity%20Fundamentals-black?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-black?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-black?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Fortinet-Certified%20Fundamentals%20Cybersecurity-black?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Fortinet-Getting%20Started%20in%20Cybersecurity%203.0-black?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Fortinet-Introduction%20to%20the%20Threat%20Landscape%203.0-black?style=for-the-badge" />
+
+---
+
+# GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=charukagimhan2020-hub&show_icons=true&theme=default&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=charukagimhan2020-hub&show_icons=true&theme=chartreuse-dark" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=charukagimhan2020-hub&theme=default&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=charukagimhan2020-hub&theme=chartreuse-dark" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charukagimhan2020-hub&layout=compact&theme=default&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charukagimhan2020-hub&layout=compact&theme=chartreuse-dark" />
 </p>
 
 ---
 
-## CONNECT
+# Connect
 
-LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Charuka%20Weerasinghe-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/charuka-weerasinghe-5955a6210/)
 
-https://www.linkedin.com/in/charuka-weerasinghe-5955a6210/
-
-GitHub
-
-https://github.com/charukagimhan2020-hub
+[![GitHub](https://img.shields.io/badge/GitHub-charukagimhan2020--hub-181717?style=for-the-badge&logo=github)](https://github.com/charukagimhan2020-hub)
 
 ---
 
-> Learn. Build. Test. Improve.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=charukagimhan2020-hub&theme=matrix&no-frame=true&row=1&column=6" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=charukagimhan2020-hub&color=000000&style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=00FF88&center=true&vCenter=true&width=600&lines=Learn+.+Build+.+Break+.+Improve+.+Repeat" />
 </p>
