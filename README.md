@@ -69,6 +69,9 @@ Features:
 
 ✓ Browser-Based Training Environment
 
+🌐 Live Demo:
+https://phishing-simulator-three.vercel.app/
+
 ---
 
 ## Advanced Phishing Email Analyzer
@@ -85,6 +88,9 @@ Features:
 
 ✓ Browser-Only Processing
 
+🌐 Live Demo:
+https://phishing-analyzer-eta.vercel.app/
+
 ---
 
 ## Brute Force Attack Simulator
@@ -98,6 +104,9 @@ Features:
 ✓ Sequential Brute Force
 
 ✓ Password Security Demonstrations
+
+🌐 Live Demo:
+https://brute-force-attack-simulator.vercel.app/
 
 ---
 
