@@ -120,24 +120,24 @@ Features:
 # GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=charukagimhan2020-hub&show_icons=true&theme=chartreuse-dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=charukagimhan2020-hub&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=charukagimhan2020-hub&theme=chartreuse-dark" />
+  <img height="170" src="https://streak-stats.demolab.com?user=charukagimhan2020-hub&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charukagimhan2020-hub&layout=compact&theme=chartreuse-dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charukagimhan2020-hub&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 # Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Charuka%20Weerasinghe-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/charuka-weerasinghe-5955a6210/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Charuka%20Weerasinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charuka-weerasinghe-5955a6210/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-charukagimhan2020--hub-181717?style=for-the-badge&logo=github)](https://github.com/charukagimhan2020-hub)
+[![GitHub](https://img.shields.io/badge/GitHub-charukagimhan2020--hub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charukagimhan2020-hub)
 
 ---
 
